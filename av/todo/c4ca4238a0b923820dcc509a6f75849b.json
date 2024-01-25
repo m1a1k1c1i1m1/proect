@@ -1,0 +1,17 @@
+{
+    "req": "post",
+    "page_all_flag": false,
+    "type_page": "cars",
+    "body": {
+        "page": 1,
+        "properties": [
+            {
+                "name": "price_currency",
+                "value": 2
+            }
+        ],
+        "sorting": 4
+    },
+    "Url": "https://api.av.by/offer-types/cars/filters/main/apply",
+    "name": "1"
+}

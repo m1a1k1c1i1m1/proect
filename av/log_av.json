@@ -1,0 +1,22 @@
+{
+    "user": {
+        "deleted": false,
+        "dialogsEnabled": true,
+        "isBlocked": false,
+        "id": 3085865,
+        "createdAt": "2024-01-25T06:06:46+0000",
+        "apiKey": "k936e81733412bfc333f707",
+        "mailingEnabled": true,
+        "bookmarkEventsEnabled": true,
+        "email": "dbrum@mailforspam.com",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439",
+        "userWallet": {
+            "balance": 0.0
+        },
+        "oldSessionId": "m8ibeols6rhfu9jvqsb4721jc7",
+        "oldRememberMeHash": "stub",
+        "oldRememberMeId": 3085865,
+        "userGroup": "ff3af5e4-28f0-4f6f-a3e1-fd632ce1c023"
+    },
+    "data_time": 1706162806.711602
+}
